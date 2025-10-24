@@ -1,0 +1,8 @@
+com\company\TODO\List\Repository\TaskRepository.class
+com\company\TODO\List\TODOApplication.class
+com\company\TODO\List\Controller\TaskAPIController.class
+com\company\TODO\List\Controller\GlobalExceptionHandler$ErrorMessage.class
+com\company\TODO\List\Model\Task.class
+com\company\TODO\List\Sevice\TaskService.class
+com\company\TODO\List\Controller\GlobalExceptionHandler.class
+com\company\TODO\List\Controller\TaskController.class
